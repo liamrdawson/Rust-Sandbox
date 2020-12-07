@@ -1,7 +1,8 @@
-mod print;
+// mod print;
+mod vars;
 
 fn main() {
     //  Print to console
-    print::run(); 
-    
+    vars::run(); 
+
 }
